@@ -10,4 +10,5 @@
 
 @interface WWTFrame : NSObject
 - (void)printTest;
+- (void)printTest1;
 @end

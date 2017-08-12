@@ -12,4 +12,7 @@
 - (void)printTest{
     NSLog(@"this is a test");
 }
+- (void)printTest1{
+    NSLog(@"this is a test111111111");
+}
 @end
