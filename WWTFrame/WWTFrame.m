@@ -9,10 +9,13 @@
 #import "WWTFrame.h"
 
 @implementation WWTFrame
-- (void)printTest{
-    NSLog(@"this is a test");
-}
-- (void)printTest1{
-    NSLog(@"this is a test111111111");
+//- (void)printTest{
+//    NSLog(@"this is a test");
+//}
+//- (void)printTest1{
+//    NSLog(@"this is a test111111111");
+//}
+- (NSString *)getTest2{
+    return @"test return";
 }
 @end

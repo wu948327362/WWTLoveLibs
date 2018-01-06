@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 
 @interface WWTFrame : NSObject
-- (void)printTest;
-- (void)printTest1;
+//- (void)printTest;
+//- (void)printTest1;
+- (NSString *)getTest2;
 @end
