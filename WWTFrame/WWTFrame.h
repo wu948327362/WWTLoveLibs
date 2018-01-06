@@ -12,4 +12,5 @@
 //- (void)printTest;
 //- (void)printTest1;
 - (NSString *)getTest2;
+- (NSString *)getTest3;
 @end

@@ -20,4 +20,9 @@
     //test
     return @"test return";
 }
+- (NSString *)getTest3{
+    
+    //test
+    return @"test return";
+}
 @end
