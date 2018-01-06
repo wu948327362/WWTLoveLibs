@@ -17,5 +17,6 @@
 //}
 - (NSString *)getTest2{
     return @"test return";
+    
 }
 @end
