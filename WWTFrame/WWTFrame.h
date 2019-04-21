@@ -13,4 +13,9 @@
 //- (void)printTest1;
 - (NSString *)getTest2;
 - (NSString *)getTest3;
+- (int)getTest4;
+- (NSString *)getTest5;
+- (NSString *)getTestScrips;
+- (NSString *)getTestPushGitlab;
+- (NSString *)getTestForNothing;
 @end
